@@ -9,7 +9,7 @@
     {
       "payload": {
         "include-files": [
-          "footerContactUsLink/footerContactUsLink.js"
+          "samples/footerContactUsLink.js"
         ],
 	      "include-repo":{
 	       "name": "marcusF_customizer_samples"
