@@ -45,7 +45,7 @@ if(typeof(dojo) != "undefined") {
             waitFor( function(){
 			// wait until the "loading..." node has been hidden
 			// indicating that we have loaded content.
-   			dojo.query("div.lotusFooter:nth-child(1) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1)[href='mailto:tuser3@l2support.notes.lotuslive.com']");
+   			dojo.query("div.lotusFooter:nth-child(1) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1)[href='mailto:tuser3@l2support.notes.lotuslive.com']";
        	          },
 		  ".lotusStreamTopLoading div.loaderMain.lotusHidden");
       } catch(e) {
