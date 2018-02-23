@@ -9,10 +9,10 @@
     {
       "payload": {
         "include-files": [
-          "footerContactUsLink/footerContactUsLink.js"
+          "samples/footerContactUsLink.js"
         ],
 	      "include-repo":{
-	       "name": "global-samples"
+	       "name": "marcusF_customizer_samples"
 	     }
       },
       "name": "Footer Contact Us Link Extension",
